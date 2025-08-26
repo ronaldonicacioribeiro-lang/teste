@@ -7,7 +7,7 @@
     android:padding="24dp"
     android:background="#F5F5F5">
 
-    <!-- Instruções para o usuário -->
+    < para o usuário >
     <TextView
         android:id="@+id/tvInstructions"
         android:layout_width="wrap_content"
@@ -18,7 +18,7 @@
         android:layout_marginBottom="16dp"
         android:textAlignment="center"/>
 
-    <!-- Campo de entrada do nome -->
+    <Campo de entrada do nome>
     <EditText
         android:id="@+id/etNome"
         android:layout_width="match_parent"
@@ -29,7 +29,7 @@
         android:textSize="16sp"
         android:layout_marginBottom="16dp"/>
 
-    <!-- Botão para sortear -->
+    < Botão para sortear >
     <Button
         android:id="@+id/btnSortear"
         android:layout_width="wrap_content"
@@ -41,7 +41,7 @@
         android:textColor="#FFFFFF"
         android:layout_marginBottom="24dp"/>
 
-    <!-- Resultado -->
+    < Resultado >
     <TextView
         android:id="@+id/tvResultado"
         android:layout_width="wrap_content"
